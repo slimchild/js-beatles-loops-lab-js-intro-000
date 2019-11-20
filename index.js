@@ -16,7 +16,7 @@ return (facts);
 }
 
 function iLoveTheBeatles(number){
-  arrayEmpty[];
+  var arrayEmpty = [];
   do{
     arrayEmpty.push("I love the Beatles!");
     number++;
